@@ -2,7 +2,7 @@
 - 👀 I’m currently working on web dev projects
 - 🌱 I’m currently learning ... Full Stack Web Development
 - 💞️ I’m looking to collaborate with ... someone passionated in CS
-- 📫 How to reach me ... lsaathvik24@gmail.com
+- 📫 How to reach me ... lsaathvik24@gmail.com,www.linkedin.com/in/lekhansaathvik
 
 <!---
 lesaathvik/lesaathvik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
