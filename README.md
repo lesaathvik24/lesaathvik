@@ -1,28 +1,49 @@
-<h1 align="center">Hi 👋, I'm Lekhan Saathvik Lekkala</h1>
-<h3 align="center">CSE Junior at PES University</h3>
+<h1 align="center">Lekhan Saathvik Lekkala</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lesaathvik24&label=Profile%20views&color=0e75b6&style=flat" alt="lesaathvik24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lesaathvik24" alt="lesaathvik24" /></a> </p>
-
-- 🔭 I’m currently working on **Neural Networks and AI Agents**
-
-- 🌱 I’m currently learning **Generative Artificial Intelligence, Machine Learning, Cloud**
-
-- 🤝 I’m looking for help with **Data Structures and Algorithms 😭**
-
-- 💬 Ask me about **react js, ai agents**
-
-- 📫 How to reach me **lsaathvik24@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lekhansaathvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lekhansaathvik" height="30" width="40" /></a>
+<p align="center">
+  <b>I build the harness that keeps AI-assisted code honest.</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  SDET by trade — I turned the testing lens on the agents writing the code.
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lesaathvik24&show_icons=true&locale=en&layout=compact" alt="lesaathvik24" /></p>
+<p align="center">
+  <a href="https://github.com/lesaathvik24/protos-harness">Protos&nbsp;Harness</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/lekhansaathvik">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:lsaathvik24@gmail.com">Email</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesaathvik24&" alt="lesaathvik24" /></p>
+---
+
+## Your AI pair-programmer is quietly making you a worse engineer.
+
+You skim the diff. You hit accept. You ship. Do it enough and you understand your own codebase *less* than when you started.
+
+I build the tooling that puts the engineer back in the loop — and the guardrails that catch what the agent gets wrong before it ever reaches `main`.
+
+**[Protos Harness →](https://github.com/lesaathvik24/protos-harness)** is where that lives: a production-grade harness for Claude Code. Seven hooks block secret leaks, dangerous commands, and bad commits at the boundary. It ships with **`vibezombie`** — an original skill that stops the agent *at the moment of a real decision* and makes you choose, so you learn instead of rubber-stamping.
+
+---
+
+## Selected work
+
+| | |
+|---|---|
+| **[Protos Harness](https://github.com/lesaathvik24/protos-harness)** | Guardrail hooks, skills, and agents for Claude Code. MIT · CI-tested · v0.2 |
+| **[Melody Agent](https://github.com/lesaathvik24/Melody_Agent)** | A three-agent crewAI pipeline — research → lyrics → audio — that turns a topic into a finished song. Dockerized. |
+| **[Dataset LLM Agent](https://github.com/lesaathvik24/dataset_llm_agent)** | Dockerized agent that drives Claude to generate fine-tuning datasets at scale. |
+| **[Daily AI News Bot](https://github.com/lesaathvik24/Daily_Ai_News_Bot)** | Discord agent that compresses the day's AI news into a two-minute read. Published image, live community. |
+| **[Fake Currency Detection](https://github.com/lesaathvik24/Fake-Currency-Detection)** | A TensorFlow CV model served behind Flask. |
+
+---
+
+## How I work
+
+Code that fails loud at the boundary and makes illegal states unrepresentable. Small, pure, reviewable. I care more about the infrastructure that makes agents *trustworthy* than the demo that makes them look magic.
+
+Shipped LLM and agentic-RAG systems in production and co-authored peer-reviewed research (ICCEE 2025). Currently going deep on agentic developer tooling and the fundamentals — DSA and ML — that outlast every framework.
+
+<p align="center"><sub>Open to AI / ML / SWE roles where the bar is high and the agents are plentiful.</sub></p>
