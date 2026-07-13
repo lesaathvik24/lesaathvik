@@ -1,31 +1,25 @@
-<h1 align="center">Lekhan Saathvik Lekkala</h1>
+# hi, I'm Lekhan
 
-👋 I'm Lekhan — I fine-tune LLMs, architect the agents that wrap them, and push tools like Claude well past their defaults.
+I take LLMs to production for a living, and on the side I build tools that stop AI from making me worse at my job.
 
-## 🧠 About
+At Agratas (Tata Group) I fine-tuned a 9B model for enterprise document translation and shipped an agentic RAG system on Llama 8B — vLLM, PyTorch, Celery, Postgres — that screens candidates end to end. It saves the company about $45K a year and ~945 hours of manual work, which is the only kind of eval that matters. Before that I co-wrote a virtual try-on paper at ICCEE 2025 in Singapore that beat the Flow-Style VTON baseline.
 
-At **Agratas (Tata Group)** I took LLMs into production: fine-tuned a 9B model for enterprise document translation, and shipped an agentic RAG system on Llama 8B (vLLM · PyTorch · Celery · PostgreSQL · Nginx) that ranks candidates autonomously. The receipts — **$45K saved annually and 945 manual hours eliminated.**
+Somewhere along the way I noticed the tools I use all day are optimized to do the thinking for me, and that this was quietly working. I could review anything and build nothing. Most of what I make now pushes in the other direction.
 
-Outside the day job I build agents and the tooling around them — multi-agent pipelines, and developer tooling for Claude Code that makes AI-assisted work faster without making the developer worse.
+### things I've built
 
-- 🛠️ **Top skills:** Python · LLM fine-tuning · Agentic architecture · vLLM · PyTorch · RAG
-- 🔬 Published at **ICCEE 2025** (Singapore) — a computer-vision virtual try-on system that beat the Flow-Style VTON baseline on every metric
-- 🎓 B.Tech CS, **PES University** — 8.93/10
-- 🌱 **Currently:** agentic developer tooling, and the fundamentals — DSA + ML — that outlast every framework
-- 📫 **Reach me:** lsaathvik24@gmail.com
+**[vibesmith](https://github.com/lesaathvik24/vibesmith)** — an AI pair programmer that refuses to write your code. Two gate hooks physically block Claude from the source files you own; it writes every test, plans the roadmap with you, and teaches — but the tool call to edit your code fails before it executes. You write every line. I built it after catching myself unable to start a project from a blank file, which was alarming.
 
-## ⭐ Featured Projects
+**[protos-harness](https://github.com/lesaathvik24/protos-harness)** — hooks, agents and skills for Claude Code: blocks secret leaks, dangerous commands, bad commits. Ships with vibezombie, which pauses the agent at every real decision and makes you choose between actual alternatives instead of pressing accept until the feature exists.
 
-**[Protos Harness](https://github.com/lesaathvik24/protos-harness)** — A production-grade harness for Claude Code. Seven hooks block secrets, dangerous commands, and bad commits; ships with `vibezombie`, an original skill that stops the agent at real decisions and makes you choose instead of rubber-stamping.
+**[vocabmaxx](https://github.com/lesaathvik24/vocabmaxx)** — spaced repetition for words you meet in the wild. Capture, review, own.
 
-**[Dataset LLM Agent](https://github.com/lesaathvik24/dataset_llm_agent)** — An autonomous agent that generated 10,000+ instruction-tuning pairs for LLM fine-tuning, cutting dataset-curation time ~60%. Dockerized.
+**[dataset_llm_agent](https://github.com/lesaathvik24/dataset_llm_agent)** — an autonomous agent that generated 10k+ instruction-tuning pairs, cutting curation time by more than half.
 
-**[Melody Agent](https://github.com/lesaathvik24/Melody_Agent)** — A three-agent crewAI pipeline that turns a topic into a finished song: research → lyrics → audio.
+older stuff — a three-agent pipeline that writes and sings a song about anything ([Melody_Agent](https://github.com/lesaathvik24/Melody_Agent)), a Discord bot that compresses the day's AI news into two minutes ([Daily_Ai_News_Bot](https://github.com/lesaathvik24/Daily_Ai_News_Bot)), currency-forgery detection in TensorFlow ([Fake-Currency-Detection](https://github.com/lesaathvik24/Fake-Currency-Detection)).
 
-**[Daily AI News Bot](https://github.com/lesaathvik24/Daily_Ai_News_Bot)** — A Discord agent that compresses the day's AI news into a two-minute read. Published image, live community.
+### now
 
-**[Fake Currency Detection](https://github.com/lesaathvik24/Fake-Currency-Detection)** — A TensorFlow computer-vision model served behind Flask.
+Fundamentals, mostly. DSA every morning, ML from first principles, building in public in the evenings. The bar for any tool I keep: it has to make me faster *and* smarter. Faster and dumber is out.
 
-## 🌐 Connect
-
-[LinkedIn](https://linkedin.com/in/lekhansaathvik) · [Email](mailto:lsaathvik24@gmail.com)
+lsaathvik24@gmail.com · [linkedin](https://linkedin.com/in/lekhansaathvik)
